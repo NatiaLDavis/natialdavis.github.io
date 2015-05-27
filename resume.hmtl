@@ -1,5 +1,16 @@
 <!doctype html>
  
+ 
+ <style>
+ 
+ 
+ 
+ </style>
+ 
+ <a href="index.html">Home</a><br>
+<a href="contactme.html">Contact Me</a><br> 
+<a href="gallery.html">Gallery</a><br>
+
 <h1> My Resume </h1>
 <table>
   <tr><th>Header 1<th>Header 2
